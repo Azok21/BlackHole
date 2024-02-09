@@ -1,0 +1,3 @@
+
+
+void game(bool multi);
