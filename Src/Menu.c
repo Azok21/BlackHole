@@ -87,6 +87,12 @@ int Menu(){
  
   delwin(inner);
   delwin(win_menu);
+
+
+
+
+
+
   
   endwin();
 
