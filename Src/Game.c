@@ -1,10 +1,10 @@
 /* *********************************************************************************************************************************** */
 
-#include "../../Utils/Shared/Libs.h"
-#include "../../Utils/Shared/Structs.h"
+#include "../Utils/Shared/Libs.h"
+#include "../Utils/Shared/Structs.h"
 
-#include "../../Utils/Funct/Display.h"
-#include "../../Utils/Funct/Network.h"
+#include "../Utils/Funct/Display.h"
+#include "../Utils/Funct/Network.h"
 
 /* *********************************************************************************************************************************** */
 

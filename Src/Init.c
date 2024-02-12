@@ -24,7 +24,7 @@ void Init_Colors(){
 
 // Init of the screan and different settings of ncurses. Ncurses use only
 void Init(){
-  initscr();  );        // Init a new screen in the terminal
+  initscr();            // Init a new screen in the terminal
 
   start_color();        // Start the color system in the terminal
   Init_Colors();        // Init the color pair we need 
